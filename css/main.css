@@ -29,10 +29,10 @@ background-size: cover;
 .project-header {
   padding: 5px;
   text-align: center;
-  color: #b30027;
+  color: white;
   border-top-right-radius: 20px;
   border-top-left-radius: 20px;
-  background: #e2e2e2;
+  background: #292929;
 }
 
 .project-title {
