@@ -12,6 +12,7 @@ background-size: cover;
 }
 
 .portfolio-item {
+  min-height: 200px;
   border: 1px solid #e2e2e2;
   border-radius: 20px;
   margin: 20px 10px 20px 10px;
